@@ -22,7 +22,7 @@ Crear un archivo de este tipo en algun editor de codigo, coloca el siguiente cod
 __pycache__/
 local_settings.py
 db.sqlite3
-# comentarios
+#comentarios
 * Los archivos con terminacion .log, .poto .pyc seran ignorados, de esta forma agregas los archivos con
 un formato especifico.
 * _pycache_/ inicia que todo este directorio sea ignorado.
